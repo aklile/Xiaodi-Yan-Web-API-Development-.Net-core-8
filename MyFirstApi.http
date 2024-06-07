@@ -1,0 +1,14 @@
+@MyFirstApi_HostAddress = https://localhost:7096
+
+GET {{MyFirstApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+GET {{MyFirstApi_HostAddress}}/api/invoices
+
+###
+
+GET {{MyFirstApi_HostAddress}}/api/invoices
+
+###
